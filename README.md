@@ -2,7 +2,7 @@
 
 This repository contains the R code accompanying the paper:
 
-[Two-Phase Treatment with Noncompliance: Identifying the Cumulative Average Treatment Effect via Multisite Instrumental Variables]
+**Two-Phase Treatment with Noncompliance: Identifying the Cumulative Average Treatment Effect via Multisite Instrumental Variables**
 
 ## Files
 

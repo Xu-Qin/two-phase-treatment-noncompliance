@@ -14,6 +14,8 @@ This repository contains the R code accompanying the paper:
 
 ## Reproducibility
 
+Open R or RStudio and set the working directory to the repository folder.
+
 To reproduce the simulation results:
 
 ```r

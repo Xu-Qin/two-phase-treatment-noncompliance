@@ -12,6 +12,9 @@ This repository contains the R code accompanying the paper:
 - `02_simulations.R`  
   Reproduces the simulation study presented in the paper.
 
+- `application_data.csv`  
+  Data used for the method application in the paper.
+
 ## Reproducibility
 
 Open R or RStudio and set the working directory to the repository folder.
